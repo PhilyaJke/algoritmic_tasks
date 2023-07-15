@@ -1,5 +1,3 @@
-package main.PalindromeNumber;
-
 class PalindromeNumber{
     public static boolean isPalindrome(int x){
         int input = x;

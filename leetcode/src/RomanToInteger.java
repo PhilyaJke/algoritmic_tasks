@@ -1,5 +1,3 @@
-package main.RomanToInteger;
-
 public class RomanToInteger {
     public int romanToInt(String s) {
         int nums[] = new int[s.length()];
